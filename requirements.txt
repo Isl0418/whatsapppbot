@@ -1,0 +1,8 @@
+# WhatsApp bot (Green API + DeepSeek + OpenAI)
+aiohttp>=3.9.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Опционально: локальный OCR для фото (установить при необходимости)
+# easyocr>=1.7.0
+# torch

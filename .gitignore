@@ -1,0 +1,32 @@
+# Env и секреты
+.env
+.env.local
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Логи и временные файлы
+logs/
+temp_files/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Фото (если большие или приватные; раскомментируйте при необходимости)
+# photos/
+
+# Прочее
+.DS_Store
+Thumbs.db
